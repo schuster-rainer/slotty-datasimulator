@@ -15,7 +15,7 @@ def readlines(fname):
 
 setup(name=__packagename__,
       version=__version__,
-      description="Web Racing Management System",
+      description="Carrera Racing Unit data simulator for slotty",
       long_description=read('README.md'),
       classifiers=["Development Status :: 3 - Alpha",
                    "Environment :: Plugins",
